@@ -1,4 +1,4 @@
-<center># Statistical Analysis of Protein Structures: Retrieving and Evaluating PDB Data
+# Statistical Analysis of Protein Structures: Retrieving and Evaluating PDB Data
 
 ## Project Overview
 
