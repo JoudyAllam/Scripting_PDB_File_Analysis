@@ -48,7 +48,7 @@ Proteins are composed of 20 standard amino acids, which can be categorized based
 
 ### Visualization:
 The program generates interactive plots (using libraries such as Plotly) to visualize the frequency and percentage data, allowing users to export these graphs as HTML files for easy sharing.
-Note: Plotly plots may not display properly in Jupyter notebook or HTML format due to their large size. However, the plots can be viewed by copying their permalink and pasting it into https://nbviewer.org/, which renders the interactive charts correctly.
+- Note: Plotly plots may not display properly in Jupyter notebook or HTML format due to their large size. However, the plots can be viewed by copying their permalink and pasting it into https://nbviewer.org/, which renders the interactive charts correctly.
 
 ## Part 3: Interatomic Distance Calculations
 
