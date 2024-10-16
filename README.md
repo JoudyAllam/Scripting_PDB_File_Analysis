@@ -1,4 +1,4 @@
-# Statistical Analysis of Protein Structures: Retrieving and Evaluating PDB Data
+<center># Statistical Analysis of Protein Structures: Retrieving and Evaluating PDB Data
 
 ## Project Overview
 
@@ -61,12 +61,10 @@ Note: Plotly plots may not display properly in Jupyter notebook or HTML format d
 
 - **Python**: The script is written in Python 3 and utilizes modern Python libraries.
 - **plotly**: Required for generating interactive plots and visualizations of the amino acid data.
-  - Installation: `pip install plotly`
 - **urllib**: This is a standard Python library used for fetching data from URLs (in this case, to download PDB files).
 - **re (Regular Expressions)**: Another standard Python library used to validate and parse identifiers in the script.
 - **os**: This is a standard Python module used for file handling (e.g., checking if files exist).
 - **numpy**: Used in the script for numerical operations.
-  - Installation: `pip install numpy`
 
 #### Optional (if needed):
 - **plotly.offline**: For saving and viewing the generated plots offline.
