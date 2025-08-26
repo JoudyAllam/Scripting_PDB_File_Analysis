@@ -2,7 +2,19 @@
 
 ## Project Overview
 
-This project focuses on retrieving and analyzing data from the Protein Data Bank (PDB), a repository for the three-dimensional structural data of biological molecules such as proteins. Using Python, the program scrapes PDB files from the database, conducts statistical analysis on the amino acid content of proteins, and computes interatomic distances within protein structures.
+This project focuses on retrieving and analyzing data from the Protein Data Bank (PDB), a repository for the three-dimensional structural data of biological molecules such as proteins. Using Python, the program automates: 
+
+- **Part 1:** Download and validation of user‐specified PDB IDs from the database
+- **Part 2:** Statistical analysis on the amino acid content of proteins  
+- **Part 3:** Computation and visualization of interatomic distances within protein structures.
+
+<div align="right" style="font-size:16px; color:black; font-family:Segoe UI, sans-serif;">
+Developed by Joudy Allam & Haya Mazyad 
+    
+As part of the *Script Programming* course
+</div>
+
+---
 
 ## Table of Contents
 - [Project Overview](#project-overview)
